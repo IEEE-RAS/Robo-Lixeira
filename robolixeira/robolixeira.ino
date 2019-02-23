@@ -64,6 +64,6 @@ void loop() {
     //motorB
     digitalWrite(IN3 , HIGH);
     digitalWrite(IN4 , HIGH);
-    delay(3000);
+    delay(300000); // 3 minutos
   }
 }
